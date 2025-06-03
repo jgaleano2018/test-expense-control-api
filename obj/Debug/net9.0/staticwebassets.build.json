@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Q4fnnjBXZKp9E78GXhYjVcKKuur+014DYkuzpV9VhNY=",
+  "Source": "test-expense-control-api",
+  "BasePath": "_content/test-expense-control-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
